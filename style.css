@@ -4,3 +4,12 @@ body{
 .name{
     color: cornflowerblue;
 }
+section{
+    display: flex;
+}
+.width-hilf{
+    width: 50%;
+}
+.width-hilf img{
+    width: 100%;
+}

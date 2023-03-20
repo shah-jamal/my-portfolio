@@ -14,7 +14,7 @@ section{
 .width-hilf img{
     width: 100%;
 }
-link-btn{
+.link-btn{
     text-decoration: none;
     background-image: linear-gradient(red,blue);
     color: white;
